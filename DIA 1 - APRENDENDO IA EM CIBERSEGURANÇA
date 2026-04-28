@@ -1,0 +1,13 @@
+A IA ajuda em tarefas que antes eram feitas por humanos como o controle de acesso a sua rede.
+A IA fica analisando tentativas de login, tráfego de rede, comportamento de usuários. Se algo que o algoritmo não reconhece ela bloqueia ou alerta. 
+
+Isso utiliza conceitos como
+ML: Aprender padrões
+DL: Aprender padrões mais complexos
+Detecção de Anomalias: Identificar um comportamento estranho
+
+TÉCNICAS UTILIZADAS:
+1 - Detecção de anomalias: A IA aprende o que é normal
+2 - Classificação: A IA classifica se aquilo por exemplo um e-mail é bom ou pode ser nocivo
+3 - Sistemas de recomendação de IA: Basea-se em ataques que já aconteceram
+4 - Análise comportamental ( UEBA ) - A IA observa o comportamento do usuário

@@ -1,0 +1,17 @@
+🔐 Conceitos de Cibersegurança
+
+As abordagens tradicionais de cibersegurança são caracterizadas por modelos baseados em perímetro, nos quais os sistemas internos são considerados confiáveis, além de apresentarem uma atuação predominantemente reativa, respondendo a incidentes apenas após sua ocorrência. Essas abordagens utilizam ferramentas isoladas e mecanismos baseados em assinaturas, o que limita a detecção de ameaças avançadas.
+
+Em contrapartida, abordagens modernas adotam estratégias mais robustas e proativas. A arquitetura Zero Trust (ZTA) baseia-se no princípio de “nunca confiar, sempre verificar”, exigindo autenticação contínua de usuários e dispositivos. Complementarmente, o NIST Cybersecurity Framework fornece diretrizes estruturadas para a gestão de riscos de segurança, enquanto a ISO 27001 estabelece requisitos para a implementação de um Sistema de Gestão de Segurança da Informação (SGSI), promovendo padronização e melhoria contínua. Essas abordagens, quando integradas, fortalecem significativamente a postura de segurança das organizações.
+
+
+Comparação
+| Aspecto                  | Abordagens Tradicionais           | Abordagens Modernas                          |
+|--------------------------|----------------------------------|---------------------------------------------|
+| Modelo de Segurança      | Baseado em perímetro             | Baseado em identidade (Zero Trust)          |
+| Confiança                | Implícita após autenticação      | Verificação contínua                        |
+| Atuação                  | Reativa                          | Proativa                                    |
+| Detecção de ameaças      | Baseada em assinaturas           | IA + análise comportamental                 |
+| Ferramentas              | Isoladas                         | Integradas (ex: SIEM)                       |
+| Gestão de Segurança      | Limitada                         | Estruturada (NIST, ISO 27001)               |
+| Controle de acesso       | Estático                         | Dinâmico e contínuo                         |
